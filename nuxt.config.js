@@ -1,14 +1,18 @@
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'CommingSoonLandingPage',
+    title: "Gores Digital | Layanan pengadaan online untuk keperluan desain grafis, percetakan serta office stationary",
     htmlAttrs: {
       lang: 'en'
     },
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: '' },
+      {
+        hid: 'description',
+        name: 'description',
+        content: 'Gores Digital adalah platform teknologi penyediakan layanan pengadaan online untuk keperluan desain grafis, percetakan serta office stationary dari produksi hingga distribusi dengan cepat, mudah dan berkualitas bagi pembisnis atau perorangan di seluruh Indonesia'
+      },
       { name: 'format-detection', content: 'telephone=no' }
     ],
     link: [
